@@ -1,0 +1,27 @@
+index.html:
+ full name 
+ job tittle 
+ short address
+
+profile picture
+
+bio:
+ socil links:
+ github 
+ linkdin 
+ copyright 
+
+education.html:
+ university icon
+ university name
+ degree name
+ relevent cources
+
+ hsc college icon
+ hse college name
+ stream
+ relevent subject 
+ ssc school icon
+ ssc school name 
+ stream 
+ relavent subject
